@@ -34,7 +34,7 @@ const Header = () => {
         <Popup trigger={buttonPopup} setTrigger={setButtonPopup}>
           <h3>{state.title}</h3>
           <br />
-          <img src={state.img} /> <br />
+          <img src={state.img} alt="..." /> <br />
           <p>{state.p}</p>
           <br />
           <em>{state.em}</em>
