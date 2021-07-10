@@ -40,7 +40,7 @@ const Work = () => {
           {state.map((work) => (
             <Col col={4} key={work.id}>
               <WorkImage>
-                <Image src={work.image} />
+                <Image src={work.image} alt="..." />
               </WorkImage>
             </Col>
           ))}
