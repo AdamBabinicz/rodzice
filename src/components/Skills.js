@@ -17,7 +17,7 @@ const Skills = () => {
   const [state] = useState({
     heading: "Porównanie życia dzieci z rodzicami",
     subHeading:
-      "Moja mama żyła o 18 lat krócej od swojej mamy i o 17 lat krócej od swojego ojca. Mój tata żył o 2 lata dłużej niż jego ojciec, a o 9 lat krócej, niż jego mama. Przeciętnie pokolenie dzieci, które przeniosły się do miasta żyło znacznie krócej, niż rodzice mieszkający na wsi.",
+      "Moja mama żyła o 18 lat krócej od swojej mamy i o 17 lat krócej od swojego ojca. Mój tata żył o 1 rok krócej, niż jego ojciec, i o 9 lat krócej, niż jego mama. Przeciętnie pokolenie dzieci, które przeniosły się do miasta żyło znacznie krócej, niż rodzice mieszkający na wsi.",
   });
   const [mySkills] = useState([
     { id: 1, name: "Marianna Ofiara (córka Heleny i Józefa)", value: 55 },
@@ -25,7 +25,7 @@ const Skills = () => {
     { id: 3, name: "Helena Sobień (matka Marianny)", value: 73 },
     { id: 4, name: "Józef Ofiara (ojciec Marianny)", value: 72 },
     { id: 5, name: "Agnieszka Baćmaga (matka Józefa)", value: 75 },
-    { id: 6, name: "Jan Gierczak (ojciec Józefa)", value: 64 },
+    { id: 6, name: "Jan Gierczak (ojciec Józefa)", value: 67 },
   ]);
 
   return (
