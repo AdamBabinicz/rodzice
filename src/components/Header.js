@@ -6,7 +6,7 @@ import {
   SubHeading,
 } from "../styled-components/HeaderStyles";
 import { Container, Link } from "../styled-components/SharedStyles";
-import img1 from "../images/4.avif";
+import img1 from "../images/2.avif";
 
 const Header = () => {
   const [state] = useState({
