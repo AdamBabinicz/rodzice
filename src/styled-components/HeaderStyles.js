@@ -3,7 +3,7 @@ import styled from "styled-components";
 export const HeaderContainer = styled.header`
   width: 100%;
   height: 100vh;
-  background: rgba(0, 0, 0, 0.7) url("/assets/images/1.png") center/contain
+  background: rgba(0, 0, 0, 0.7) url("/assets/images/1.avif") center/contain
     no-repeat fixed;
   background-blend-mode: overlay;
   display: flex;

@@ -19,7 +19,7 @@ const About = () => {
         <Row>
           <Col col={3}>
             <AboutImage>
-              <Image src="/assets/images/8.png" alt="..." />
+              <Image src="/assets/images/2.avif" alt="..." />
             </AboutImage>
           </Col>
           <Col col={9}>

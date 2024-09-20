@@ -7,27 +7,27 @@ const Work = () => {
   const [state] = useState([
     {
       id: 1,
-      image: "/assets/images/2.jpg",
+      image: "/assets/images/3.avif",
     },
     {
       id: 2,
-      image: "/assets/images/25.jpg",
+      image: "/assets/images/25.avif",
     },
     {
       id: 3,
-      image: "/assets/images/21.jpg",
+      image: "/assets/images/21.avif",
     },
     {
       id: 4,
-      image: "/assets/images/15.jpg",
+      image: "/assets/images/15.avif",
     },
     {
       id: 5,
-      image: "/assets/images/23.jpg",
+      image: "/assets/images/23.avif",
     },
     {
       id: 6,
-      image: "/assets/images/41.jpg",
+      image: "/assets/images/41.avif",
     },
   ]);
   const [heading] = useState("Moi rodzice");
